@@ -1,6 +1,6 @@
-name: 'CapRover Deploy'
+name: 'CapRover Deploy (Working)'
 description: 'Action to deploy on Caprover server'
-author: 'Alexey Schebelev'
+author: 'ItsMeAlfie0'
 branding:
   icon: upload-cloud
   color: orange
